@@ -1,3 +1,2 @@
-Readme file
+"# mySymfonyApp" 
 
-This is a sample Symfony App!
